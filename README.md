@@ -30,7 +30,7 @@
 - Python for Data Science  
 
 ### 📫 How to reach me  
-- 📧 challarohith252@gmail.com  
+- 📧 rohithchalla05@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sathya-rohith-254818208/)  
 
 ### 👨‍💻 All of my projects are available at  
@@ -40,7 +40,7 @@
 - 🏆 [LinkedIn Articles](https://www.linkedin.com/in/challarohith)  
 
 ### 📄 Know about my experiences  
-- 📜 [Resume](#) (https://drive.google.com/file/d/1vDlpmUTLV67Ih96cn4Rnc2rU1o5PFoIw/view?usp=drive_link)  
+- 📜 [Resume](https://drive.google.com/file/d/1vDlpmUTLV67Ih96cn4Rnc2rU1o5PFoIw/view?usp=drive_link)  
 
 ### ⚡ Fun fact  
 I think I am funny 😆  
